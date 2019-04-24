@@ -6,7 +6,7 @@ import java.util.List;
 public class Programame {
 
 	public List<String> problemaA(List<String> entrada) {
-		ArrayList salida = null;
+		ArrayList salida = hola;
 		return salida;
 	}
 
